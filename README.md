@@ -2,7 +2,7 @@
 
 **_Mapping Lichess Players by Their Opening Choice_**
 
-[Interactive Visualization](https://suji04.github.io/ChessViz/)
+Go to the [Interactive Visualization](https://suji04.github.io/ChessViz/)
 
 ## Methodology
 (Code coming soon)
