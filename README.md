@@ -13,7 +13,7 @@
 - Compute cosine k-NN graph using faiss
 - Detect player communities with the Leiden algorithm
 - Reduce dimensions to 3D with UMAP
-- Visualize randomly sampled 100k players for visual clarity
+- Visualize randomly sampled 100k players for clarity
  
 
 ## Dataset
