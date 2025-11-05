@@ -5,8 +5,8 @@
 ## Methodology
 (Code coming soon)
 - Noise reduction
-  - Filter games with average Elo (white Elo + black Elo / 2) >=1000 and time control >=10 minutes
-  - Filter players with <20 games
+  - Ignore games with average Elo (white Elo + black Elo / 2) <1000 and time control <10 minutes
+  - Ignore players with <20 games
   - Ignore games with irregular openings (ECO code A00)
 - For each player, compute the distribution of openings played. This will yield a player × ECO matrix (≈500 ECO codes) counting openings as white and black. 
 - Normalize rows to get per-player opening probability vectors.
