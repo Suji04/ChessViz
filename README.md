@@ -29,6 +29,9 @@ Go to the [Interactive Visualization](https://suji04.github.io/ChessViz/)
 - `umap` - dimensionality reduction
 - `plotly` - visualization
 
+## Animated Map
+![animated map](https://github.com/Suji04/ChessViz/blob/main/animated_lichess_map.gif)
+
 
 
 
